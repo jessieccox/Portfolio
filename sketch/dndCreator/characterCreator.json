@@ -1,0 +1,29 @@
+{
+  "start": "Your name is $firstname $lastname $pronouns. %You are $race and are $age years old. %Your alignment is $alignment. %Before you joined your party %you were $background. %You are currently $class. %Your weapon of choice is $weapon. %You are traveling with $travelingwith party members %$travellinghow $travellingwhy $travellingwho. %%Let the adventure begin! % &#x28;or click again for a new adventure&#x29;",
+  
+  "firstname": "Flint | Eden | Cricket | Haven | Quinn | Varik | Adelaide | Lovell | Barnaby | Rio | Ayla | Sylvia | Virgil | Shakar | Dak | Imani | Jessamine | Artis | Ripley | Esther | Atrion | Ulrich | Atlas | Anaru | Ryfin | Emeryn | Sarabeth | Halia | Terys | Lyka | Jabal | Nadya | Ryn | Borus | Keo | Feron | Xandyr | Elian | Gilborn | Onas | Goma | Sylleth | Galrod | Umond | Merle | Magnus | Slade | Ruby | Tobias | Arlo | Argo | Fitzroy | Aubrey | Duck | Alvon | Aragona | Denatra | Lora | Athena | Xandra | Leif | Gwyneth | Sawyer | Willow | Jaxon | Piper | Taryn | Octavia | Omar | Blaze | Ember | Hawk | Onyx | Laurel | Phoenix | Wolfe | Magnolia | Zenith | Jester | Grommash | Grimlok | Garzug | Ushra | Gronka | Garnok | Krag | Gobby | Elvira | Fyra | Jorvax | Troth | Indrid | Gandy | Augustus | Errol | Lucian | Tanzer | Sylvester | Harv | Minerva | Barclay | Hollis | Pigeon | Kirby | Orla | Kessler | Garfield | Klarg | Angus | Artemis | Avi | Lucretia | Mookie | Paloma | Hekuba | Hurley | Rowan | Roswell | Sloane | Johann | Raven | Yeemick | Dante | Emrys | Casey",
+  
+  "lastname": "Westwood | Ethridge | Halverd | Erinwright | Wistfall | Hemlock | Delvish | Silvertail | Ironspear | Gorestone | Rosefire | Highchurch | Burnsides | Turnskull | Zorgar | Frostpeak | Mercer | Vespers | Falcon | Ridley | Archer | Lockheart | Youngblood | Stark | Thacker | Firbolg | Keene | Chicane | Maplecourt | Newton | Battlehammer | Swiftfoot | Moonblade | Shadowweaver | Fireheart | Ironfist | Nightstalker | Sunstriker | Stormweaver | Bloodtusk | Gnashgore | Bloodfury | Ryehouse | Fangbattle | Silverview | Bonkers | Rockseeker | Bluejeans | Bain | Davenport | Grimaldis | Roughridge | Thorn | Barlowe | Fox | Whitlock | Remington | Stallard | Undergrove | Finch | Jay | Festus | Lightfoot | Godfrey | Greathouse | Callisto | Omega | Chrysalis | Ravenwood | Nightingale | Starweaver | Dragonrider | Moonstone | Ravenclaw | Thunderbird | Wilderwood | Frostbloom | Autumnbow | Amberhide | Ambrose | Boneflare | Brightdoom | Bluebleeder | Boulderward | Crestbreeze | Cinderbreaker | Covenbreath | Crystalbone | Duskbloom | Dewbringer | Fourswallow | Hallowswift | Humblecut | Hazekeep | Honorhorn | Keenstone | Longshard | Lonerider | Mistblood | Mistbinder | Mournmoon | Nightwind | Oceanseeker | Rapidclaw | Roserun | Rapidroot | Rainward | Voidreaper | Warbelly | Wolfgrain | Woodflower",
+  
+  "pronouns":" &#x28;she/her&#x29; | &#x28;he/him&#x29; | &#x28;she/they&#x29; | &#x28;he/they&#x29; | &#x28;they/she&#x29; | &#x28;they/he&#x29; | &#x28;they/them&#x29; | &#x28;they/he/she&#x29; | &#x28;he/she&#x29; | &#x28;all pronouns&#x29;",
+  
+  "age": "15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75",
+  
+  "race": "a dragonborn | a dwarf | an elf | a gnome | a half-elf | a halfling | a half orc | a human | a tiefling | an aarakocra | a centaur | a changeling | a goblin | a goliath | a kenku | an orc | a satyr | a tabaxi | a fire genasi | a water genasi | an earth genasi | an air genasi | a fairy | a bugbear | a warforged | a minotaur | a feral tiefling | an aasimar | a triton",
+  
+  "class": "a barbarian | a bard | a cleric | a druid | a fighter | a monk | a paladin | a ranger | a rogue | a sorcerer | a warlock | a wizard | an artificer | a blood hunter",
+  
+  "alignment": "Lawful Good | Neutral Good | Chaotic Good | Lawful Neutral | True Neutral | Chaotic Neutral | Lawful Evil | Neutral Evil | Chaotic Evil",
+
+  "background": "a noble | a criminal | a farmer | a peasant | an archaeologist | an athlete | an investigator | an entertainer | a traveler | a fisherman | a gambler | a hermit | a knight | a pirate | a sailor | a soldier | a smuggler | a student",
+  
+  "weapon": "a club | a dagger | a greatclub | a handaxe | a javelin | a mace | a quarterstaff | a sickle | a spear | a crossbow | a shortbow | a battleaxe | a greatsword | a halberd | a lance | a longsword | a maul | a morningstar | a rapier | a shortsword | a trident | a warhammer | a whip | a blowgun | a longbow | a net",
+  
+  "travelingwith": "3 | 4 | 5 | 6",
+  
+  "travellinghow": "on foot | by carriage | by cart | by ship | by horse | by air balloon",
+  
+  "travellingwhy": "to defeat | to speak with | to find | to kill | to ruin the plans of | to do a favor for", 
+  
+  "travellingwho": "a witch | the king | the queen | a mermaid | a monster | a wizard | a demon | an angel | a skeleton | a god | a goddess | a dragon | a cyclops | a giant | a vampire | a werewolf"
+}
